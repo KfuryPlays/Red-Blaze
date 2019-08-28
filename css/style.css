@@ -1,0 +1,36 @@
+.conversion{
+    background-color: #222222;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.container{
+    border: 7px solid black;
+}
+
+.about-section{
+    margin: 75px auto;
+}
+
+.footer-p{
+    color: #eee;
+    text-align: center;
+}
+
+.nav-bg{
+    background-color: #333;
+}
+
+.pad{
+    padding: 45px 0;
+}
+
+.side-image{
+    padding: 10px;
+    border: 4px solid red;
+}
+
+.pg-pad{
+    padding: 15px;
+}
