@@ -7,10 +7,17 @@
 
 .container{
     border: 7px solid black;
+    margin: 10px auto;
 }
 
 .about-section{
     margin: 75px auto;
+    background-color: #fff;
+    padding: 20px;
+}
+
+.text-fluid{
+    color: #fff;
 }
 
 .footer-p{
@@ -33,4 +40,15 @@
 
 .pg-pad{
     padding: 15px;
+}
+
+.bg-image {
+    background-image: url(../img/gaming.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.vb{
+    margin-bottom: 10px;
+    width: 50%;
 }
